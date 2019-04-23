@@ -1,0 +1,11 @@
+C:\Users\tyler\source\repos\Project Game\Project Game\bin\Debug\Project Game.exe
+C:\Users\tyler\source\repos\Project Game\Project Game\bin\Debug\Project Game.pdb
+C:\Users\tyler\source\repos\Project Game\Project Game\obj\Debug\Project Game.csprojAssemblyReference.cache
+C:\Users\tyler\source\repos\Project Game\Project Game\obj\Debug\Project_Game.Form1.resources
+C:\Users\tyler\source\repos\Project Game\Project Game\obj\Debug\Project_Game.Properties.Resources.resources
+C:\Users\tyler\source\repos\Project Game\Project Game\obj\Debug\Project Game.csproj.GenerateResource.cache
+C:\Users\tyler\source\repos\Project Game\Project Game\obj\Debug\Project Game.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\Project Game\Project Game\obj\Debug\Project Game.exe
+C:\Users\tyler\source\repos\Project Game\Project Game\obj\Debug\Project Game.pdb
+C:\Users\tyler\source\repos\Project Game\Project Game\obj\Debug\Interop.WMPLib.dll
+C:\Users\tyler\source\repos\Project Game\Project Game\obj\Debug\Project Game.csproj.ResolveComReference.cache
